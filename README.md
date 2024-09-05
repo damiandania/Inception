@@ -3,7 +3,7 @@
 	alt="Project pic" width="150" height="150"/>
 </p>
 
-# Inception
+# Inception 🐳
 
 This project focuses on mastering Docker and Docker Compose. The task is to create a small network of three Docker containers: one for Nginx, one for WordPress, and one for MariaDB. These containers must interact within a Docker network to host a local website.
 
